@@ -22,3 +22,6 @@ const d = 'quero passear de carro'
 // (b && a) && !d
 // a || b
 // c && !d
+
+
+//a
